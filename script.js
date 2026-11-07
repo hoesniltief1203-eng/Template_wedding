@@ -879,7 +879,7 @@ document.addEventListener('DOMContentLoaded', () => {
       `*Akad Nikah:*`,
       `🗓 Minggu, 27 Desember 2026`,
       `⏰ Jam 08.00 WIB – Selesai`,
-      `📍 Ds. Sentul 06/04 Kec. Gringsing Kab. Batang`,
+      `📍 Ds. Sentul 06/03 Kec. Gringsing Kab. Batang`,
       ``,
       `*Resepsi:*`,
       `🗓 Selasa, 29 Desember 2026`,
