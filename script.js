@@ -884,7 +884,7 @@ document.addEventListener('DOMContentLoaded', () => {
       `*Resepsi:*`,
       `🗓 Selasa, 29 Desember 2026`,
       `⏰ Jam 13.00 WIB – Selesai`,
-      `📍 Ds. Sentul 05/03 (Jl. Lkr. Alas Roban No.1551, Siwaduk, Sentul, Kec. Gringsing, Kabupaten Batang, Jawa Tengah 51281)`,
+      `📍 (Depan Balai desa) Ds. Sentul 05/03 Kec. Gringsing Kab. Batang`,
       ``,
       `Tautan undangan khusus:`,
       `👉 ${link}`,
