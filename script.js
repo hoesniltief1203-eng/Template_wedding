@@ -874,7 +874,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ``,
       `Tanpa mengurangi rasa hormat, perkenankan kami mengundang Anda untuk menghadiri acara pernikahan kami:`,
       ``,
-      `*A APRIZAL RIZQI K I., S.H., M.H & AFIFATUL HIDAYAH*`,
+      `*A APRIZAL RIZQI K I., S.H., M.H & AFIFATUL HIDAYAH AL-HAFIDZAH*`,
       ``,
       `*Akad Nikah:*`,
       `🗓 Minggu, 27 Desember 2026`,
