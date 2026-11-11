@@ -1806,6 +1806,29 @@ body.locked .demo-btn {
   line-height: 1;
 }
 
+.closing-invited {
+  margin-top: -0.25rem;
+  margin-bottom: 1.45rem;
+  text-align: center;
+}
+
+.invited-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #9c8372;
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+
+.invited-names {
+  font-family: var(--font-serif);
+  font-size: 0.8rem;
+  color: #38261e;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
 .btn-back-top {
   display: inline-flex;
   align-items: center;
