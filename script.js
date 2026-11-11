@@ -645,7 +645,7 @@ document.addEventListener('DOMContentLoaded', () => {
     calUrl.searchParams.set('action', 'TEMPLATE');
     calUrl.searchParams.set('text', `Pernikahan ${CONFIG.coupleShort}`);
     calUrl.searchParams.set('dates', `${CONFIG.calendarStart}/${CONFIG.calendarEnd}`);
-    calUrl.searchParams.set('details', `Akad Nikah: Minggu, 27 Desember 2026 (Jam 08.00 - Selesai) di Ds. Sentul 06/04 Kec. Gringsing Kab. Batang.\nResepsi: Selasa, 29 Desember 2026 (Jam 13.00 - Selesai) di Ds. Sentul 05/03 Kec. Gringsing Kab. Batang.`);
+    calUrl.searchParams.set('details', `Akad Nikah: Minggu, 27 Desember 2026 (Jam 08.00 WIB) di Ds. Sentul 06/03 Kec. Gringsing Kab. Batang.\nResepsi: Selasa, 29 Desember 2026 (Jam 13.00 - 16.00 WIB) di (Depan Balai desa) Ds. Sentul 05/03 Kec. Gringsing Kab. Batang.`);
     calUrl.searchParams.set('location', CONFIG.venueName);
     btnCal.href = calUrl.toString();
   }
@@ -878,12 +878,12 @@ document.addEventListener('DOMContentLoaded', () => {
       ``,
       `*Akad Nikah:*`,
       `🗓 Minggu, 27 Desember 2026`,
-      `⏰ Jam 08.00 WIB – Selesai`,
+      `⏰ Jam 08.00 WIB`,
       `📍 Ds. Sentul 06/03 Kec. Gringsing Kab. Batang`,
       ``,
       `*Resepsi:*`,
       `🗓 Selasa, 29 Desember 2026`,
-      `⏰ Jam 13.00 WIB – Selesai`,
+      `⏰ Jam 13.00 – 16.00 WIB`,
       `📍 (Depan Balai desa) Ds. Sentul 05/03 Kec. Gringsing Kab. Batang`,
       ``,
       `Tautan undangan khusus:`,
